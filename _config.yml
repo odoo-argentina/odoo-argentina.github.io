@@ -1,11 +1,11 @@
 inc:
   # Blog Information
   title:
-    en: "Yet Another Argentina Localization for Odoo"
-    es: "Otra Localización Argentina de Odoo"
+    en: "Argentina Localization for Odoo"
+    es: "Localización Argentina de Odoo"
   subtitle:
-    en: "A localization by developers for society"
-    es: "Una localización de desarrolladores para la sociedad"
+    en: "The open, reviewed and proactive localization"
+    es: "La localización abierta, revisada y proactiva."
   languages:
     en:
         en: "English"
