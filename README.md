@@ -1,4 +1,4 @@
-# Repositorio de la página oficial de la otra localización
+# Repositorio de la página oficial de la localización argentina.
 
 Esta página tiene como objetivo introducir a desarrolladores, funcionales y usuarios a esta otra localización Argentina.
 
@@ -11,7 +11,7 @@ Algunos cambios que podrían proponer son:
 * Agregar contenido.
 * Modificar contenido.
 
-Por supuestos, los cambios no son aceptados inmediatamente, siempre hay una revisión de los dueños del repositorio. Pero somos abiertos a cualquier propuesta.
+Por supuestos, los cambios no son aceptados inmediatamente, siempre hay una revisión. Pero somos abiertos a cualquier propuesta.
 
 Saludos,
 Cristian.
