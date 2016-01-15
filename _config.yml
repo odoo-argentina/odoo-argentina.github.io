@@ -18,8 +18,8 @@ inc:
   logo:         logo.png
   
   # Company information
-  company:      odoo_l10n_ar
-  url:          https://github.com/odoo-l10n-ar
+  company:      odoo-argentina
+  url:          https://www.odoo-argentina.org
   #facebook:     sendtoinc
   #twitter:      sendtoinc
   gplus:        '111927348615509591736'
@@ -47,7 +47,7 @@ inc:
   # Collaboration link
   
   # Github link
-  github_link: https://github.com/odoo-l10n-ar
+  github_link: https://github.com/odoo-argentina
   github_text:
     en: "See me in GitHub"
     es: "Búscame en GitHub"
@@ -64,7 +64,7 @@ inc:
 
 
   # Product Information
-  #product_link: https://github.com/odoo-l10n-ar
+  #product_link: https://github.com/odoo-argentina
   #tagline:      "GitHub"
   
   # Comments
@@ -96,7 +96,7 @@ collections:
   - questions 
 
 
-url:         https://github.com/odoo-l10n-ar
+url:         http://www.odoo-argentina.org
 source:      .
 destination: ./_site
 plugins:     ./_plugins
