@@ -8,6 +8,7 @@ author:
 categories: es main
 section: main
 ---
+“No abres la fuente del código porque sea lo correcto; es porque permite realizar un mejor trabajo. Creo que la gente que piensa que el software abierto es anticapitalista es algo ingenua y estúpida“ Linux Towards.
 
 Usted a accedido al sitio oficial de Otra Localización Argentina de Odoo. Si se pregunta ¿Qué es Odoo? ¿Qué es una localización? y otras que no encuentre en esta primera página, esperamos responderlas en [Respuestás a Preguntas Frecuentes](/faq). Pero si ya sabe de que se está hablando, puede seguir adelante sin prejuicio.
 
